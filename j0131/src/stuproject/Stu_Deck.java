@@ -52,7 +52,7 @@ public class Stu_Deck {
 			if(name.equals("0")) {
 				break;
 			}
-			System.out.println("국어 점수를 입력하세요");
+			System.out.println("국어점수를 입력하세요");
 			kor = scan.nextInt();
 			System.out.println("영어점수를 입력하세요.");
 			eng = scan.nextInt();
